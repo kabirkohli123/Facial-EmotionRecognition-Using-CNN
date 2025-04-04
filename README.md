@@ -57,7 +57,7 @@ This project implements a Convolutional Neural Network (CNN) to classify facial 
 ```bash
 git clone https://github.com/kabirkohli123/Facial-EmotionRecognition-Using-CNN
 .git
-cd Facial-Expression-Recognition-CNN
+cd Facial-EmotionRecognition-Using-CNN
 ```
 
 ### 2. Install Dependencies
